@@ -220,7 +220,6 @@ input:focus input[type=checkbox]:focus {
 .buttonActive {
     color: #316636 !important;
 }
-/* Top menu transparency https://jellyfin.org/docs/general/clients/css-customization.html#transparent-top-menu */
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
     background: none !important; 
     background-color: rgba(0, 40, 40, 40, 0.9) !important;
