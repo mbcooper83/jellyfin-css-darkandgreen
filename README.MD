@@ -15,5 +15,5 @@ Click save and refresh the browser window.
 
 *  This CSS is provided without garauntee or support, you are welcome to take it and modify it in any way you chosse.
 
-
-![Alt text](/screenshot001.png?raw=true "Optional Title")
+Screenshot 01
+![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss01.png?raw=true "Screenshot 01")
