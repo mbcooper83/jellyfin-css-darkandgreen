@@ -4,8 +4,8 @@ For best effect, first set the user "Theme" setting to dark and then apply the C
 
 
 Log in to Jellyfin,
-Go to Dashoard
-Go to General
+Go to Dashoard,
+Go to General,
 Enter the following line in the "Custom CSS:" field
 
 @import url("http://arch.mrv/jellytheme/style.css");
