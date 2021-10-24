@@ -8,7 +8,7 @@ Go to Dashoard,
 Go to General,
 Enter the following line in the "Custom CSS:" field
 
-@import url("http://arch.mrv/jellytheme/style.css");
+@import url("https://mbcooper83.github.io/jellyfin-darkangreen.css");
 
 Click save and refresh the browser window.
 
