@@ -15,17 +15,17 @@ Click save and refresh the browser window.
 
 *  This CSS is provided without garauntee or support, you are welcome to take it and modify it in any way you chosse.
 
-Screenshot 01
+Main Page with green selection highlight and slightly transparent floating top menu:
 ![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss01.png?raw=true "Screenshot 01")
 
 
-Screenshot 02
+Example setting panel with green tickboxes:
 ![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss02.png?raw=true "Screenshot 02")
 
 
-Screenshot 03
+Episode/season page, themed green played item indicator (ticks) 
 ![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss03.png?raw=true "Screenshot 03")
 
 
-Screenshot 04
+themed player controls (green and dark)
 ![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss04.png?raw=true "Screenshot 04")
