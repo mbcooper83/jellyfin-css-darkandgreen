@@ -13,7 +13,7 @@ Enter the following line in the "Custom CSS:" field
 Click save and refresh the browser window.
 
 
-*  This CSS is provided without garauntee or support, you are welcome to take it and modify it in any way you chosse.
+*  This CSS is provided without garauntee or support, you are welcome to take it and modify it in any way you choose.
 
 Main Page with green selection highlight and slightly transparent floating top menu:  
 ![Alt text](https://mbcooper83.github.io/jfcssdrkgrn/jfcss01.png?raw=true "Screenshot 01")
